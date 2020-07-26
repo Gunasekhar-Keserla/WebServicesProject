@@ -1,0 +1,99 @@
+2020-07-26 23:01:18,875 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>4605</id>
+            <groupId>1</groupId>
+            <defaultBilling>3627</defaultBilling>
+            <defaultShipping>3627</defaultShipping>
+            <createdAt>2020-07-26 17:31:17</createdAt>
+            <updatedAt>2020-07-26 17:31:17</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <dob>1994-05-19</dob>
+            <email>gunasekhar01@gmail.com</email>
+            <firstname>Krishna</firstname>
+            <lastname>Mohan</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses>
+               <item>
+                  <id>3627</id>
+                  <customerId>4605</customerId>
+                  <region>
+                     <regionCode>Karnataka</regionCode>
+                     <region>Karnataka</region>
+                     <regionId>0</regionId>
+                  </region>
+                  <regionId>0</regionId>
+                  <countryId>IN</countryId>
+                  <street>
+                     <item>#55, 1 st Main Road</item>
+                  </street>
+                  <telephone>+91 9876543210</telephone>
+                  <postcode>560023</postcode>
+                  <city>Bengaluru</city>
+                  <firstname>Krishna</firstname>
+                  <lastname>Mohan</lastname>
+                  <defaultShipping>true</defaultShipping>
+                  <defaultBilling>true</defaultBilling>
+               </item>
+            </addresses>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-07-26 23:01:18,999 INFO  [log] 4605
+2020-07-26 23:01:27,249 INFO  [log] The Total number of rows are 6
+2020-07-26 23:01:27,253 INFO  [log] The Total number of columns are 1
+2020-07-26 23:01:27,274 INFO  [log] gunasekhar02@gmail.com
+2020-07-26 23:01:27,335 INFO  [log] email is gunasekhar02@gmail.com
+2020-07-26 23:01:34,812 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:01:34,813 INFO  [log] pranav@gmail.com
+2020-07-26 23:01:34,819 INFO  [log] email is pranav@gmail.com
+2020-07-26 23:01:41,174 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:01:41,182 INFO  [log] shrivas@gmail.com
+2020-07-26 23:01:41,185 INFO  [log] email is shrivas@gmail.com
+2020-07-26 23:01:47,569 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:01:47,570 INFO  [log] gsk@gmail.com
+2020-07-26 23:01:47,580 INFO  [log] email is gsk@gmail.com
+2020-07-26 23:01:53,752 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:01:53,753 INFO  [log] chandrasekhar@gmail.com
+2020-07-26 23:01:53,763 INFO  [log] email is chandrasekhar@gmail.com
+2020-07-26 23:02:00,249 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:00,250 INFO  [log] rajasekhar@gmail.com
+2020-07-26 23:02:00,260 INFO  [log] email is rajasekhar@gmail.com
+2020-07-26 23:02:06,721 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:07,020 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMER.EMAIL>devarajulu@gmail.com</CUSTOMER.EMAIL>
+        </Row>
+        <Row rowNumber="2">
+            <CUSTOMER.EMAIL>suresh@gmail.com</CUSTOMER.EMAIL>
+        </Row>
+        <Row rowNumber="3">
+            <CUSTOMER.EMAIL>ganesh@gmail.com</CUSTOMER.EMAIL>
+        </Row>
+        <Row rowNumber="4">
+            <CUSTOMER.EMAIL>vaishnavi@gmail.com</CUSTOMER.EMAIL>
+        </Row>
+        <Row rowNumber="5">
+            <CUSTOMER.EMAIL>chinni@gmail.com</CUSTOMER.EMAIL>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-07-26 23:02:07,106 INFO  [log] devarajulu@gmail.com
+2020-07-26 23:02:12,722 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:12,726 INFO  [log] suresh@gmail.com
+2020-07-26 23:02:18,475 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:18,483 INFO  [log] ganesh@gmail.com
+2020-07-26 23:02:24,326 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:24,328 INFO  [log] vaishnavi@gmail.com
+2020-07-26 23:02:30,094 INFO  [log] Number of test Step got executed 6
+2020-07-26 23:02:30,096 INFO  [log] chinni@gmail.com
+2020-07-26 23:02:35,825 INFO  [log] Number of test Step got executed 6
